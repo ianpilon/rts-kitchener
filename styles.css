@@ -385,6 +385,7 @@ a { color: inherit; text-decoration: none; }
   padding: 60px 0 80px;
 }
 .reefer-page .page-heading { color: var(--primary-dark); }
+.reefer-page .info-item    { grid-template-columns: 1fr; }
 .reefer-page .info-item h3 { color: var(--primary-dark); }
 .reefer-page .info-item p  { color: #555; }
 .reefer-page .info-item a  { color: var(--primary); }
