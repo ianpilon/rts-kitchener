@@ -735,7 +735,13 @@ footer .learn-more { color: var(--primary-light); text-decoration: underline; fo
   .about-grid, .services-grid, .info-grid, .visualizer-row, .footer-grid, .benefits-grid, .contact-page-grid, .locations-grid {
     grid-template-columns: 1fr;
   }
-  .hero-cards { position: static; padding: 20px; flex-wrap: wrap; }
+  .hero-cards {
+    position: static;
+    padding: 20px;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .hero-cards .hero-card { width: 100%; }
   .hero-expert { display: none; }
 
   /* Hamburger nav */
