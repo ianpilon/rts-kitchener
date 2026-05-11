@@ -194,40 +194,6 @@
     display: inline-block;
   }
 
-  /* ---------- Fleet banner ---------- */
-  .fleet-banner {
-    position: relative;
-    background: linear-gradient(90deg, #0a2447 0%, #143a73 100%);
-    color: #fff;
-    text-align: right;
-    padding: 40px 80px 40px 0;
-    overflow: hidden;
-  }
-  .fleet-banner::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: url('assets/fleet-bg.jpg') left center / 50% 100% no-repeat;
-    opacity: 0.85;
-  }
-  .fleet-banner h2 {
-    position: relative;
-    font-size: 48px;
-    margin: 0 0 15px;
-    font-style: italic;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-  }
-  .fleet-banner .btn-fleet {
-    position: relative;
-    background: #fff;
-    color: var(--primary);
-    padding: 10px 30px;
-    font-weight: bold;
-    display: inline-block;
-    border-radius: 4px;
-  }
-
   /* ---------- Welcome / About section ---------- */
   .about-section {
     padding: 50px 0;
@@ -625,7 +591,6 @@
     }
     .hero-cards { position: static; padding: 20px; flex-wrap: wrap; }
     .hero-expert { display: none; }
-    .fleet-banner h2 { font-size: 28px; }
   }
 </style>
 </head>
@@ -700,12 +665,6 @@
         <div class="cta">CLICK HERE TO LEARN ABOUT OUR PARTS &amp; ACCESSORIES</div>
       </div>
     </div>
-  </section>
-
-  <!-- Fleet banner -->
-  <section class="fleet-banner">
-    <h2>FLEET SERVICES</h2>
-    <a href="#" class="btn-fleet">CLICK HERE</a>
   </section>
 
   <!-- About / welcome content -->

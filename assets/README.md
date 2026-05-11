@@ -9,7 +9,6 @@ to a `placehold.co` placeholder automatically.
 | `assets/logo-dark.png`        | Footer logo (dark navy bg)     | 200 × 40         | Light/white version of the logo    |
 | `assets/hero.jpg`             | Hero background                | 1600 × 500       | Wide truck/trailer hero shot       |
 | `assets/owner.png`            | Jeff Carson cutout (hero)      | 280 × 380        | Transparent PNG works best         |
-| `assets/fleet-bg.jpg`         | Fleet-services banner image    | 1200 × 180       | Used as left-half background       |
 | `assets/shop-exterior.jpg`    | Gallery main photo             | 600 × 300        | Shop exterior or signage           |
 | `assets/gallery-1.jpg`        | Gallery thumbnail 1            | 150 × 60         |                                    |
 | `assets/gallery-2.jpg`        | Gallery thumbnail 2            | 150 × 60         |                                    |
