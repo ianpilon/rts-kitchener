@@ -42,6 +42,27 @@ a { color: inherit; text-decoration: none; }
   gap: 12px;
 }
 .main-nav .logo img { height: 68px; width: auto; }
+.hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 28px;
+  height: 20px;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  margin-left: auto;
+}
+.hamburger span {
+  display: block;
+  width: 100%;
+  height: 3px;
+  background: #fff;
+  border-radius: 2px;
+  transform-origin: center;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
 .nav-links {
   display: flex;
   gap: 24px;
@@ -711,10 +732,40 @@ footer .learn-more { color: var(--primary-light); text-decoration: underline; fo
 
 /* ---------- Responsive ---------- */
 @media (max-width: 900px) {
-  .nav-links { gap: 14px; font-size: 12px; }
   .about-grid, .services-grid, .info-grid, .visualizer-row, .footer-grid, .benefits-grid, .contact-page-grid, .locations-grid {
     grid-template-columns: 1fr;
   }
   .hero-cards { position: static; padding: 20px; flex-wrap: wrap; }
   .hero-expert { display: none; }
+
+  /* Hamburger nav */
+  .hamburger { display: flex; }
+
+  .main-nav .nav-links,
+  .main-nav .phone-btn {
+    display: none;
+    flex-basis: 100%;
+  }
+  .main-nav.open .nav-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    padding: 12px 0 4px;
+    font-size: 14px;
+  }
+  .main-nav.open .nav-links li {
+    padding: 12px 4px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .main-nav.open .phone-btn {
+    display: inline-flex;
+    justify-content: center;
+    align-self: stretch;
+    margin: 10px 0 6px;
+  }
+
+  /* Burger -> X */
+  .main-nav.open .hamburger span:nth-child(1) { transform: translateY(8px) rotate(45deg); }
+  .main-nav.open .hamburger span:nth-child(2) { opacity: 0; }
+  .main-nav.open .hamburger span:nth-child(3) { transform: translateY(-9px) rotate(-45deg); }
 }
