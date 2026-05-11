@@ -31,29 +31,6 @@
 
   .container { width: 100%; max-width: 1200px; margin: 0 auto; padding: 0 20px; }
 
-  /* ---------- Welcome / address bar ---------- */
-  .welcome-bar {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 20px;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-  .welcome-bar .welcome-title {
-    flex: 1;
-    text-align: center;
-  }
-  .welcome-bar h1 {
-    margin: 0;
-    font-size: 22px;
-    font-weight: bold;
-    letter-spacing: 0.5px;
-    color: var(--primary-dark);
-  }
-  .welcome-bar .address { font-size: 14px; color: #333; }
-  .reviews { display: flex; align-items: center; gap: 8px; font-size: 14px; }
-  .reviews .rating { font-size: 22px; font-weight: bold; color: var(--primary-dark); }
   .stars { color: var(--accent); letter-spacing: 1px; font-size: 14px; }
 
   /* ---------- Main navigation ---------- */
@@ -72,16 +49,6 @@
     gap: 12px;
   }
   .main-nav .logo img { height: 36px; width: auto; }
-  .canadian-badge {
-    border: 1px solid var(--primary-dark);
-    color: var(--primary-dark);
-    padding: 4px 10px;
-    font-size: 10px;
-    font-weight: bold;
-    border-radius: 2px;
-    text-align: center;
-    line-height: 1.2;
-  }
   .nav-links {
     display: flex;
     gap: 24px;
@@ -658,32 +625,11 @@
     }
     .hero-cards { position: static; padding: 20px; flex-wrap: wrap; }
     .hero-expert { display: none; }
-    .welcome-bar h1 { font-size: 18px; }
     .fleet-banner h2 { font-size: 28px; }
   }
 </style>
 </head>
 <body>
-
-  <!-- Welcome / address / reviews -->
-  <div class="welcome-bar container">
-    <div class="canadian-badge">PROUDLY<br>🇨🇦<br>CANADIAN</div>
-    <div class="welcome-title">
-      <h1>WELCOME TO REFRIGERATED TRANSPORT SERVICE</h1>
-      <div class="address">1620 Strasburg Rd, Kitchener, ON N2R 1E9</div>
-    </div>
-    <a class="reviews"
-       href="https://www.google.com/search?q=REFRIGERATED+TRANSPORT+SERVICE&oq=REFRIGERATED+TRANSPORT+SERVICE&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQIxgnMhAIAhAuGK8BGMcBGMkDGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPDIGCAcQRRg80gEHMjcxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#lrd=0x882bf55a2234cfe5:0xb8d7e15591bd03b4,1,,,,"
-       target="_blank"
-       rel="noopener"
-       title="See all Google reviews">
-      <span class="rating">4.8</span>
-      <div>
-        <div class="stars">★★★★★</div>
-        <div>Total 13 Reviews</div>
-      </div>
-    </a>
-  </div>
 
   <!-- Main nav -->
   <nav class="main-nav">
