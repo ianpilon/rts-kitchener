@@ -114,29 +114,29 @@ a { color: inherit; text-decoration: none; }
 }
 .hero-cards {
   position: absolute;
-  bottom: 30px;
+  top: 30px;
   left: 30px;
   display: flex;
-  gap: 12px;
+  gap: 18px;
 }
 .hero-card {
   background: rgba(245, 245, 245, 0.95);
-  padding: 14px 18px;
+  padding: 21px 27px;
   text-align: center;
-  min-width: 150px;
+  min-width: 225px;
   border-radius: 2px;
 }
 .hero-card .label {
-  font-size: 13px;
+  font-size: 20px;
   color: #333;
-  margin-bottom: 8px;
+  margin-bottom: 12px;
 }
 .hero-card .btn {
   display: inline-block;
-  padding: 6px 18px;
+  padding: 9px 27px;
   background: var(--primary);
   color: #fff;
-  font-size: 13px;
+  font-size: 20px;
   border-radius: 2px;
 }
 .hero-expert {
@@ -147,14 +147,14 @@ a { color: inherit; text-decoration: none; }
   color: #fff;
 }
 .hero-expert img {
-  height: 420px;
+  height: 630px;
   width: auto;
   display: block;
 }
 .hero-expert .name {
   background: rgba(0,0,0,0.5);
-  padding: 9px 21px;
-  font-size: 20px;
+  padding: 14px 32px;
+  font-size: 30px;
   position: absolute;
   bottom: 0;
   left: 50%;
