@@ -2,18 +2,18 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1500"
-   height="500"
-   viewBox="0 0 1500 500"
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
    version="1.1"
    id="svg1"
+   xml:space="preserve"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
-   sodipodi:docname="RTL LOGO NEW.svg"
+   sodipodi:docname="RTL LOGO.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
      bordercolor="#ffffff"
@@ -23,59 +23,76 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="px"
-     inkscape:zoom="0.49491817"
-     inkscape:cx="813.26575"
-     inkscape:cy="565.75009"
-     inkscape:window-width="1728"
-     inkscape:window-height="1051"
+     inkscape:zoom="0.26283521"
+     inkscape:cx="620.16045"
+     inkscape:cy="353.83388"
+     inkscape:window-width="1720"
+     inkscape:window-height="959"
      inkscape:window-x="0"
-     inkscape:window-y="38"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs1" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g1"
-       transform="matrix(2.6572505,0,0,2.6572505,317.08822,-1628.0348)">
-      <g
-         id="g5">
-        <text
-           xml:space="preserve"
-           style="font-size:22.086px;line-height:1.1;font-family:'DIN Alternate';-inkscape-font-specification:'DIN Alternate, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#feffff;fill-rule:evenodd;stroke-width:0.690187"
-           x="98.111946"
-           y="739.23413"
-           id="text1"><tspan
-             sodipodi:role="line"
-             id="tspan1"
-             style="stroke-width:0.690187"
-             x="98.111946"
-             y="739.23413">TRANSPORT LEASING &amp; SERVICE</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:47.9779px;line-height:1.1;font-family:'DIN Alternate';-inkscape-font-specification:'DIN Alternate, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#feffff;fill-rule:evenodd;stroke-width:1.49931"
-           x="96.763542"
-           y="718.95593"
-           id="text1-3"><tspan
-             sodipodi:role="line"
-             style="stroke-width:1.49931"
-             x="96.763542"
-             y="718.95593"
-             id="tspan4">REFRIGERATED</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75.4385px;line-height:1.1;font-family:Audiowide;-inkscape-font-specification:'Audiowide, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#feffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.253965"
-           x="-85.189919"
-           y="737.66443"
-           id="text2-0"><tspan
-             id="tspan2-2"
-             x="-85.189919"
-             y="737.66443"
-             style="stroke-width:0.253965">RTL</tspan></text>
-      </g>
-    </g>
-  </g>
-</svg>
+     inkscape:window-y="94"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1"><inkscape:page
+       x="0"
+       y="0"
+       width="1920"
+       height="1080"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs1" /><text
+     xml:space="preserve"
+     style="font-size:127.489px;line-height:5.7;font-family:'DIN Alternate';-inkscape-font-specification:'DIN Alternate, Normal';text-align:start;letter-spacing:55px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#feffff;fill-rule:evenodd;stroke-width:3.98404"
+     x="1029.5396"
+     y="660.96118"
+     id="text1-3-1-6"
+     inkscape:label="LEASING"><tspan
+       sodipodi:role="line"
+       style="line-height:5.7;letter-spacing:55px;stroke-width:3.98404"
+       x="1029.5396"
+       y="660.96118"
+       id="tspan4-90-5">LEASING</tspan></text><text
+     xml:space="preserve"
+     style="font-size:127.489px;line-height:5.7;font-family:'DIN Alternate';-inkscape-font-specification:'DIN Alternate, Normal';text-align:start;letter-spacing:19px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#feffff;fill-rule:evenodd;stroke-width:3.98404"
+     x="1002.2125"
+     y="548.49817"
+     id="text1-3-1"
+     inkscape:label="TRANSPORT"><tspan
+       sodipodi:role="line"
+       style="line-height:5.7;letter-spacing:19px;stroke-width:3.98404"
+       x="1002.2125"
+       y="548.49817"
+       id="tspan4-90"
+       dx="18.534098">TRANSPORT</tspan></text><text
+     xml:space="preserve"
+     style="font-size:127.489px;line-height:1.1;font-family:'DIN Alternate';-inkscape-font-specification:'DIN Alternate, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#feffff;fill-rule:evenodd;stroke-width:3.98404"
+     x="1014.7461"
+     y="436.88605"
+     id="text1-3"
+     inkscape:label="REFRIGERATED"><tspan
+       sodipodi:role="line"
+       style="stroke-width:3.98404"
+       x="1014.7461"
+       y="436.88605"
+       id="tspan4">REFRIGERATED</tspan></text><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:451.988px;line-height:1.1;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#feffff;fill-opacity:1;fill-rule:evenodd;stroke-width:1.52162"
+     x="35.628803"
+     y="668.13684"
+     id="text2-0"
+     inkscape:label="RTL"><tspan
+       id="tspan2-2"
+       x="35.628803"
+       y="668.13684"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:451.988px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.52162">RTL</tspan></text><rect
+     style="fill:#feffff;fill-rule:evenodd"
+     id="rect1"
+     width="1789.3887"
+     height="31.1499"
+     x="67.109093"
+     y="271.97113" /><rect
+     style="fill:#feffff;fill-rule:evenodd"
+     id="rect1-6"
+     width="1789.3887"
+     height="31.1499"
+     x="62.959534"
+     y="704.59875" /></svg>
