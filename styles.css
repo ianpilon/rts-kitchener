@@ -851,13 +851,13 @@ footer .learn-more { color: var(--primary-light); text-decoration: underline; fo
 
   /* Show Jeff portrait above the footer on mobile */
   .mobile-jeff {
-    display: block;
-    text-align: center;
+    display: flex;
+    justify-content: center;
     padding-top: 40px;
+    font-size: 0;
   }
   .mobile-jeff-inner {
     position: relative;
-    display: inline-block;
   }
   .mobile-jeff img {
     height: 360px;
