@@ -849,11 +849,14 @@ footer .learn-more { color: var(--primary-light); text-decoration: underline; fo
   .hero-cards .hero-card .btn { padding: 7px 20px; font-size: 16px; }
   .hero-expert { display: none; }
 
+  /* Tighten the section above so Jeff isn't floating in whitespace */
+  .locations-served { padding-bottom: 20px; }
+
   /* Show Jeff portrait above the footer on mobile */
   .mobile-jeff {
     display: flex;
     justify-content: center;
-    padding-top: 40px;
+    padding-top: 0;
     font-size: 0;
   }
   .mobile-jeff-inner {
